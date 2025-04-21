@@ -1,6 +1,6 @@
 ## hydro-workshop
 
-# [A Computational Look at Astrophysical Flows] Workshop
+# A Computational Look at Astrophysical Flows
 
 
 
