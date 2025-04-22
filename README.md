@@ -34,12 +34,11 @@
 | Time        | Session Title          | Speaker               |
 |-------------|------------------------|-----------------------|
 | 08:30-09:00 | Reza Rezaei |Kelvin–Helmholtz instability |
-| 09:00-10:00 | An introduction to fluid Dynamics  | Mohsen Shadmehri  |
-| 11:20-12:40 | An introduction to fluid Dynamics  | Mohsen Shadmehri  |
+| 09:00-10:00 | Installing codes  |  |
+| 11:20-12:40 | Solving hydrodynamical problems in groups  | |
 | 12:40-14:00 | Lunch time  |   |
-| 14:00-15:20 | How to make fluid in your computer  | Sareh Ataiee  |
-| 15:40-17:00 | How to make fluid in your computer  | Sareh Ataiee  |
-| 17:20-18:20 | Introducing Pencil, Fargo, PLUTO, and Ramses codes  | Reza Rezaei, Sareh Ataiee, Somayeh Sheikhnezami, Asiyeh Yaghoobi  |
+| 14:00-15:20 | Solving hydrodynamical problems in groups   |  |
+| 15:40-17:00 | Solving hydrodynamical problems in groups   |  |
 
 
 * FARGO3D
