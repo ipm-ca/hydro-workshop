@@ -8,6 +8,14 @@
 - The workshop aims to introduce the field of computational astrophysics and hydrodynamic simulations to researchers and students. It will feature prominent researchers from within the country. Our focus will be on solving hydrodynamic equations and understanding fluid physics using four hydrodynamic codes: Ramses, Pluto, Pencil, and Fargo3D.
 
 ### 1st day
+## ⏰ Workshop Schedule
+
+| Time        | Session Title                      | Speaker               |Slides                              |
+|-------------|------------------------------------|-----------------------|
+| 09:30-09:30 | Welcome & Introduction             |                       |
+| 09:30-11:00 | [An introduction to fluid Dynamics]| [Mohsen Shadmehri]    |1st-day/numerical_hydro_basics.odp
+| 11:20-12:40 | [An introduction to fluid Dynamics]| [Mohsen Shadmehri]    |1st-day/numerical_hydro_basics.odp
+
 * Ataiee
     + [How to make fluid in your computer (updating...)](1st-day/numerical_hydro_basics.odp)
     + [Introduction to FARGO3D](1st-day/fargo3d_intro.pdf)
