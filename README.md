@@ -40,15 +40,13 @@
 | 14:00-15:20 | Solving hydrodynamical problems in groups   |  |
 | 15:40-17:00 | Solving hydrodynamical problems in groups   |  |
 
-*Slides: 
-     + [How to make fluid in your computer (updating...)](1st-day/numerical_hydro_basics.odp)
-*Useful links:
-        - [NHPCC documentation](https://docs.hpc.iut.ac.ir/about_the_hpc/)
-        - [NHPCC OnDemand web interface](https://docs.hpc.iut.ac.ir/user_guide/ondemand/overview/#interactive-apps)
-
 
 * Slides:
     + [Kelvin–Helmholtz instability]()
+      
+*Useful links:
+        - [NHPCC documentation](https://docs.hpc.iut.ac.ir/about_the_hpc/)
+        - [NHPCC OnDemand web interface](https://docs.hpc.iut.ac.ir/user_guide/ondemand/overview/#interactive-apps)
 
 
 ### 3rd day
