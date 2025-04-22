@@ -1,11 +1,9 @@
 ## hydro-workshop
 
 # A Computational Look at Astrophysical Flows
-
-## 📅 Workshop Details
-- **Date**: April 28 - May 1
-- **Location**: [Virtual/Physical Location]
-
+April 29 - May 1
+School of Astronomy, Institute for Research in Fundamental Sciences (IPM)
+The workshop aims to introduce researchers and students interested in the field of computational astrophysics and hydrodynamic simulations. It will feature prominent researchers from within the country. Our focus will be on solving hydrodynamic equations and understanding fluid physics using four hydrodynamic codes: Ramses, Pluto, Pencil, and Fargo3D.
 
 
 ### 1st day
