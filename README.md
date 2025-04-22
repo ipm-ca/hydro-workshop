@@ -3,7 +3,8 @@
 # A Computational Look at Astrophysical Flows
 
 ## 📅 Workshop Details
-- **Date**: April 28 - May 1 
+- **Date**: April 28 - May 1
+- **Location**: [Virtual/Physical Location]
 
 
 
