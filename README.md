@@ -1,6 +1,6 @@
 ## hydro-workshop
 
-# A Computational Look at Astrophysical Flows
+# A Computational Look at Astrophysical Flows (Updating ...)
 
 ## 📅 Workshop Details
 -  April 29 - May 1
@@ -12,7 +12,7 @@
 
 | Time        | Session Title          | Speaker               |
 |-------------|------------------------|-----------------------|
-| 09:00-09:30 | Welcome & Introduction | [Name] ([Affiliation])|
+| 09:00-09:30 | Welcome & Introduction | |
 | 09:30-11:00 | An introduction to fluid Dynamics  | Mohsen Shadmehri  |
 | 11:20-12:40 | An introduction to fluid Dynamics  | Mohsen Shadmehri  |
 | 12:40-14:00 | Lunch time  |   |
