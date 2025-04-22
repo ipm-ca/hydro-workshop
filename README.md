@@ -21,8 +21,8 @@
 | Time        | Session Title          | Speaker               |
 |-------------|------------------------|-----------------------|
 | 09:00-09:30 | Welcome & Introduction | [Name] ([Affiliation])|
-| 09:30-11:00 | [An introduction to fluid Dynamics]        | [Mohsen Shadmehri]                |
-| ...         | ...                    | ...                   |
+| 09:30-11:00 | An introduction to fluid Dynamics  | Mohsen Shadmehri  |
+| 11:20-12:40 | An introduction to fluid Dynamics  | Mohsen Shadmehri  |
 
 * Ataiee
     + [How to make fluid in your computer (updating...)](1st-day/numerical_hydro_basics.odp)
