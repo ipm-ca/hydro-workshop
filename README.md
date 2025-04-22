@@ -10,30 +10,22 @@
 ### 1st day
 ## ⏰ Workshop Schedule
 
-| Time        | Session Title                      | Speaker               |Slides                              |
-|-------------|------------------------------------|-----------------------|                                    |
-| 09:30-09:30 | Welcome & Introduction             |                       |                                    |
-| 09:30-11:00 | [An introduction to fluid Dynamics]| [Mohsen Shadmehri]    |1st-day/numerical_hydro_basics.odp  |
-| 11:20-12:40 | [An introduction to fluid Dynamics]| [Mohsen Shadmehri]    |1st-day/numerical_hydro_basics.odp  |
-
-
-
 | Time        | Session Title          | Speaker               |
 |-------------|------------------------|-----------------------|
 | 09:00-09:30 | Welcome & Introduction | [Name] ([Affiliation])|
 | 09:30-11:00 | An introduction to fluid Dynamics  | Mohsen Shadmehri  |
 | 11:20-12:40 | An introduction to fluid Dynamics  | Mohsen Shadmehri  |
+| 12:40-14:00 | Lunch time  |   |
+| 14:00-15:20 | How to make fluid in your computer  | Sareh Ataiee  |
+| 15:40-17:00 | How to make fluid in your computer  | Sareh Ataiee  |
+| 17:20-18:20 | Introducing Pencil, Fargo, PLUTO, and Ramses codes  | Reza Rezaei, Sareh Ataiee, Somayeh Sheikhnezami, Asiyeh Yaghoobi  |
 
-* Ataiee
+* Slides:
     + [How to make fluid in your computer (updating...)](1st-day/numerical_hydro_basics.odp)
     + [Introduction to FARGO3D](1st-day/fargo3d_intro.pdf)
-* Rezaei
     + [Introduction to Pencil]()
-* Shadmehri
     + [An introduction to fluid Dynamics]()
-* Sheikhnezami
     + [Introduction to PLUTO]()  
-* Yaghoobi
     + [Introduction to Ramses]()
 
     
