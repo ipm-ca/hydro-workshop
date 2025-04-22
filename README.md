@@ -8,7 +8,7 @@
 - The workshop aims to introduce the field of computational astrophysics and hydrodynamic simulations to researchers and students. Our focus will be on solving hydrodynamic equations and understanding fluid physics using four hydrodynamic codes: Ramses, Pluto, Pencil, and Fargo3D.
 
 ## ⏰ Workshop Schedule
-### 1st day
+### 1st day (April 29)
 
 | Time        | Session Title          | Speaker               |
 |-------------|------------------------|-----------------------|
@@ -30,7 +30,7 @@
 
     
 
-### 2nd day
+### 2nd day (April 30)
 | Time        | Session Title          | Speaker               |
 |-------------|------------------------|-----------------------|
 | 08:30-09:00 | Kelvin–Helmholtz instability  |Reza Rezaei |
@@ -49,7 +49,7 @@
         - [NHPCC OnDemand web interface](https://docs.hpc.iut.ac.ir/user_guide/ondemand/overview/#interactive-apps)
 
 
-### 3rd day
+### 3rd day (May 1)
 | Time        | Session Title          | Speaker               |
 |-------------|------------------------|-----------------------|
 | 08:30-09:30 | Introduction to Parallelization techniques | Seyed Mohammad Hoseinirad |
