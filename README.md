@@ -44,7 +44,7 @@
 * Slides:
     + [Kelvin–Helmholtz instability]()
       
-*Useful links:
+* Useful links:
         - [NHPCC documentation](https://docs.hpc.iut.ac.ir/about_the_hpc/)
         - [NHPCC OnDemand web interface](https://docs.hpc.iut.ac.ir/user_guide/ondemand/overview/#interactive-apps)
 
@@ -58,8 +58,7 @@
 | 11:20-13:00 | Group report and closing  |   |
 
 
-
-*Slides:
-    + [Talk](3rd-day/Parallel-computing-for-astro.odp)
+* Slides:
+    + [Introduction to Parallelization techniques](3rd-day/Parallel-computing-for-astro.odp)
 
        
