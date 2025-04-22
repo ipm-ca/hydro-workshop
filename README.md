@@ -11,10 +11,18 @@
 ## ⏰ Workshop Schedule
 
 | Time        | Session Title                      | Speaker               |Slides                              |
-|-------------|------------------------------------|-----------------------|
-| 09:30-09:30 | Welcome & Introduction             |                       |
-| 09:30-11:00 | [An introduction to fluid Dynamics]| [Mohsen Shadmehri]    |1st-day/numerical_hydro_basics.odp
-| 11:20-12:40 | [An introduction to fluid Dynamics]| [Mohsen Shadmehri]    |1st-day/numerical_hydro_basics.odp
+|-------------|------------------------------------|-----------------------|                                    |
+| 09:30-09:30 | Welcome & Introduction             |                       |                                    |
+| 09:30-11:00 | [An introduction to fluid Dynamics]| [Mohsen Shadmehri]    |1st-day/numerical_hydro_basics.odp  |
+| 11:20-12:40 | [An introduction to fluid Dynamics]| [Mohsen Shadmehri]    |1st-day/numerical_hydro_basics.odp  |
+
+
+
+| Time        | Session Title          | Speaker               |
+|-------------|------------------------|-----------------------|
+| 09:00-09:30 | Welcome & Introduction | [Name] ([Affiliation])|
+| 09:30-10:30 | [Session Title]        | [Name]                |
+| ...         | ...                    | ...                   |
 
 * Ataiee
     + [How to make fluid in your computer (updating...)](1st-day/numerical_hydro_basics.odp)
