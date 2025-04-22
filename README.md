@@ -21,7 +21,7 @@
 | Time        | Session Title          | Speaker               |
 |-------------|------------------------|-----------------------|
 | 09:00-09:30 | Welcome & Introduction | [Name] ([Affiliation])|
-| 09:30-10:30 | [Session Title]        | [Name]                |
+| 09:30-11:00 | [An introduction to fluid Dynamics]        | [Mohsen Shadmehri]                |
 | ...         | ...                    | ...                   |
 
 * Ataiee
