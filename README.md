@@ -1,7 +1,6 @@
 ## hydro-workshop
 
 # A Computational Look at Astrophysical Flows
-markdown
 
 ## 📅 Workshop Details
 -  April 29 - May 1
