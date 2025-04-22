@@ -5,7 +5,7 @@
 ## 📅 Workshop Details
 -  April 29 - May 1
 - School of Astronomy, Institute for Research in Fundamental Sciences (IPM)
-- The workshop aims to introduce the field of computational astrophysics and hydrodynamic simulations to researchers and students. It will feature prominent researchers from within the country. Our focus will be on solving hydrodynamic equations and understanding fluid physics using four hydrodynamic codes: Ramses, Pluto, Pencil, and Fargo3D.
+- The workshop aims to introduce the field of computational astrophysics and hydrodynamic simulations to researchers and students. Our focus will be on solving hydrodynamic equations and understanding fluid physics using four hydrodynamic codes: Ramses, Pluto, Pencil, and Fargo3D.
 
 ## ⏰ Workshop Schedule
 ### 1st day
