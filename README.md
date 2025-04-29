@@ -44,7 +44,7 @@
 
 
 * Slides:
-    + [Kelvin–Helmholtz instability]()
+    + [Kelvin–Helmholtz instability](2nd-day/MHD_KH.pdf)
       
 * Useful links:
         - [NHPCC documentation](https://docs.hpc.iut.ac.ir/about_the_hpc/)
