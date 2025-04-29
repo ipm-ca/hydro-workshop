@@ -22,7 +22,7 @@
 
 * Slides:
     + [An introduction to fluid Dynamics]()
-    + [How to make fluid in your computer (updating...)](1st-day/numerical_hydro_basics.odp)
+    + [How to make fluid in your computer](1st-day/numerical_hydro_basics.odp)
     + [Introduction to FARGO3D](1st-day/fargo3d_intro.pdf)
     + [Introduction to Pencil]()
     + [Introduction to PLUTO]()  
