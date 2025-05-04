@@ -61,6 +61,6 @@
 
 
 * Slides:
-    + [Introduction to Parallelization techniques](3rd-day/Parallel-computing-for-astro.odp)
+    + [Introduction to Parallelization techniques](3rd-day/Parallel-Computing-Techniques-for-Astrophysicists.pdf)
 
        
