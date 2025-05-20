@@ -21,7 +21,7 @@
 | 17:20-18:20 | Introducing Pencil, FARGO3D, PLUTO, and Ramses codes  | Reza Rezaei, Sareh Ataiee, Somayeh Sheikhnezami, Asiyeh Yaghoobi  |
 
 * Slides:
-    + [An introduction to fluid Dynamics]()
+    + [An introduction to fluid Dynamics](1st-day/FluidDynamics.pdf)
     + [How to make fluid in your computer](1st-day/numerical_hydro_basics.odp)
     + [Introduction to FARGO3D](1st-day/fargo3d_intro.pdf)
     + [Introduction to Pencil](1st-day/pencil2025.pdf)
